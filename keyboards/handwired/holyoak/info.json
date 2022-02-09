@@ -1,7 +1,7 @@
 {
-    "keyboard_name": "S60-X RGB",
+    "keyboard_name": "Holy Oak",
     "url": "",
-    "maintainer": "qmk",
+    "maintainer": "Jay Cheung",
     "layouts": {
         "LAYOUT": {
             "layout": [
